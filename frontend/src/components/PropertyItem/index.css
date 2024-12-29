@@ -1,0 +1,45 @@
+
+.property-card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  
+  transition: transform 0.2s ease-in-out;
+  overflow: hidden;
+}
+
+.property-details {
+    padding: 20px;
+  }
+  
+  .property-details h3 {
+    margin: 0 0 10px;
+  }
+  
+  .property-details p {
+    margin: 5px 0;
+  }
+
+  .connect-with-us-container{
+    border: 1px solid black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  .connect-with-us-container p{
+   margin-top: 0px;
+  }
+  .connect-with-us-container button{
+    background-color: #24A0ED;
+    width: 120px;
+    height: 38px;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+  }
+
+  
+
+  
